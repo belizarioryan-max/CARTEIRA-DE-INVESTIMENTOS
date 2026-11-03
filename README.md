@@ -3,7 +3,7 @@
 ## Descrição do projeto
 Sistema em C que simula uma carteira de investimentos com múltiplos ativos. O tema é **inclusão financeira** (ODS 8.10 da ONU): aproximar do mercado quem ainda está fora dele, oferecendo uma ferramenta simples para acompanhar o patrimônio e o desempenho dos investimentos. Os dados são salvos em arquivo texto e recarregados a cada execução.
 
-O documento de descoberta do problema está disponível em [`Documento_de_descoberta_do_problema.pdf`](Documento_de_descoberta_do_problema.pdf).
+O documento de descoberta do problema está disponível em [`Documento_de_descoberta_do_problema`](Documento_de_descoberta_do_problema (1).pdf).
 
 ## Público-alvo
 Pessoas iniciantes no mercado financeiro que desejam organizar e acompanhar seus primeiros investimentos.
